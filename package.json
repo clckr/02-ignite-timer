@@ -10,12 +10,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@hookform/resolvers": "^5.1.1",
     "phosphor-react": "^1.4.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-hook-form": "^7.57.0",
     "react-router-dom": "^7.6.2",
-    "styled-components": "^6.1.14"
+    "styled-components": "^6.1.14",
+    "zod": "^3.25.56"
   },
   "devDependencies": {
     "@eslint/js": "^9.17.0",
